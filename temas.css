@@ -1,0 +1,34 @@
+﻿body{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-image:url(IMAGEN.JPG);
+}
+.contenedor{
+width:70%;
+margin:0 auto;
+background-color:gray;
+height:100%;
+}
+.encabezado {
+    background-color:aquamarine;
+    color:#000000;
+    padding:10px;
+}
+.titulo {
+    background-color:cornflowerblue;
+    font-size:25px;
+    color:aliceblue;
+    font-style:italic;
+}
+.tecnologia {
+    background-color: black;
+    color: aliceblue;
+    padding: 10px;
+}
+.sociales {
+    padding: 10px;
+}
+.ingles {
+    background-color: black;
+    color: aliceblue;
+    padding: 10px;
+}
